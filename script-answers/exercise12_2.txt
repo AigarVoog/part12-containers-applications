@@ -1,0 +1,13 @@
+Script started on 2024-01-29 12:38:09+02:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;aigar@DESKTOP-9D81PNF: /mnt/wsl/docker-desktop-bind-mounts/Ubuntu/3caa583c305689ce5cd46de5cd3a8f128f55dc6588b62c5ea850b5122d11811b/script-answers[01;32maigar@DESKTOP-9D81PNF[00m:[01;34m/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/3caa583c305689ce5cd46de5cd3a8f128f55dc6588b62c5ea850b5122d11811b/script-answers[00m$ [7mdocker run -it ubuntu[27mdocker run -it ubuntu
+[?2004l[?2004h]0;root@adbd8281f78d: /root@adbd8281f78d:/# [7mmkdir -p /usr/src/app[27mmkdir -p /usr/src/app
+[?2004l[?2004h]0;root@adbd8281f78d: /root@adbd8281f78d:/# [7mtouch /usr/src/app/index.js[27mtouch /usr/src/app/index.js
+[?2004l[?2004h]0;root@adbd8281f78d: /root@adbd8281f78d:/# [K[7mexit[27mexit
+[?2004lexit
+[?2004h]0;aigar@DESKTOP-9D81PNF: /mnt/wsl/docker-desktop-bind-mounts/Ubuntu/3caa583c305689ce5cd46de5cd3a8f128f55dc6588b62c5ea850b5122d11811b/script-answers[01;32maigar@DESKTOP-9D81PNF[00m:[01;34m/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/3caa583c305689ce5cd46de5cd3a8f128f55dc6588b62c5ea850b5122d11811b/script-answers[00m$ exit
+[?2004lexit
+
+Script done on 2024-01-29 12:39:24+02:00 [COMMAND_EXIT_CODE="0"]
